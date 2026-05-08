@@ -1,28 +1,28 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.1wmdnsonwr.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1wmdnsonwr"},{"Name":"integrity","Value":"sha256-IVzeKVGvhjs6Z6aT/E4dh8kvD0vURAw5sLmcP1qX1GI="},{"Name":"label","Value":"_content/FestivalMvc/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3916"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IVzeKVGvhjs6Z6aT/E4dh8kvD0vURAw5sLmcP1qX1GI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:26:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IVzeKVGvhjs6Z6aT/E4dh8kvD0vURAw5sLmcP1qX1GI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3916"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022IVzeKVGvhjs6Z6aT/E4dh8kvD0vURAw5sLmcP1qX1GI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:26:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8V2zrMdprZtpyxKG4ZvjZiwS3\u002BXNWe/WnfuGShQXOWU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5257"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228V2zrMdprZtpyxKG4ZvjZiwS3\u002BXNWe/WnfuGShQXOWU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:36:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.l7izfa8jc3.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l7izfa8jc3"},{"Name":"integrity","Value":"sha256-8V2zrMdprZtpyxKG4ZvjZiwS3\u002BXNWe/WnfuGShQXOWU="},{"Name":"label","Value":"_content/FestivalMvc/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5257"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228V2zrMdprZtpyxKG4ZvjZiwS3\u002BXNWe/WnfuGShQXOWU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:36:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FestivalMvc/js/site.74gzxfd89g.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"74gzxfd89g"},{"Name":"integrity","Value":"sha256-V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg="},{"Name":"label","Value":"_content/FestivalMvc/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1479"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:27:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1479"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:30:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FestivalMvc/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1479"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:27:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1479"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022V2mlqi9jrd1Wy1lu8ppL3fnPKgvLaD/8198mN7pPJVg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 12:30:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

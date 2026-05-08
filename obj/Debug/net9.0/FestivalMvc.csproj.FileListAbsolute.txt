@@ -29,3 +29,35 @@
 /Users/haakonhalvorsen/Documents/217 Design/obj/Debug/net9.0/FestivalMvc.pdb
 /Users/haakonhalvorsen/Documents/217 Design/obj/Debug/net9.0/FestivalMvc.genruntimeconfig.cache
 /Users/haakonhalvorsen/Documents/217 Design/obj/Debug/net9.0/ref/FestivalMvc.dll
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.staticwebassets.runtime.json
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.staticwebassets.endpoints.json
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.deps.json
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.runtimeconfig.json
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.dll
+/Users/haakonhalvorsen/Documents/217-desitn/bin/Debug/net9.0/FestivalMvc.pdb
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.AssemblyInfoInputs.cache
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.AssemblyInfo.cs
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.csproj.CoreCompileInputs.cache
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.RazorAssemblyInfo.cache
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.RazorAssemblyInfo.cs
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.sourcelink.json
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/scopedcss/bundle/FestivalMvc.styles.css
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/compressed/9o5ee7ei2t-l7izfa8jc3.gz
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/compressed/n09yi7u6r4-74gzxfd89g.gz
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.build.json
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.development.json
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets/msbuild.FestivalMvc.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets/msbuild.FestivalMvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets/msbuild.build.FestivalMvc.props
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FestivalMvc.props
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FestivalMvc.props
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.dll
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/refint/FestivalMvc.dll
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.pdb
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.genruntimeconfig.cache
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/ref/FestivalMvc.dll
