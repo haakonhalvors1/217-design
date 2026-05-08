@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.7u52dvom4b.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7u52dvom4b"},{"Name":"integrity","Value":"sha256-D5Nb8ICe8esnCHB4zmz\u002BmDGy4/3Mqsjxi\u002B9Z5idRzO0="},{"Name":"label","Value":"_content/FestivalMvc/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6165"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022D5Nb8ICe8esnCHB4zmz\u002BmDGy4/3Mqsjxi\u002B9Z5idRzO0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 17:56:59 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D5Nb8ICe8esnCHB4zmz\u002BmDGy4/3Mqsjxi\u002B9Z5idRzO0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6165"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022D5Nb8ICe8esnCHB4zmz\u002BmDGy4/3Mqsjxi\u002B9Z5idRzO0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 17:56:59 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G\u002Bj/gfUgYq2wI0rAvcd1WSaJPWGFphooT3dupEtFizk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6203"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022G\u002Bj/gfUgYq2wI0rAvcd1WSaJPWGFphooT3dupEtFizk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 18:07:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FestivalMvc/css/site.h5a6vc39g1.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h5a6vc39g1"},{"Name":"integrity","Value":"sha256-G\u002Bj/gfUgYq2wI0rAvcd1WSaJPWGFphooT3dupEtFizk="},{"Name":"label","Value":"_content/FestivalMvc/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6203"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022G\u002Bj/gfUgYq2wI0rAvcd1WSaJPWGFphooT3dupEtFizk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 08 May 2026 18:07:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FestivalMvc/images/hero-bg.6g3bg43w2y.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\hero-bg.png'))</AssetFile>
