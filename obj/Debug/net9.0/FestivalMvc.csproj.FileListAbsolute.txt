@@ -45,7 +45,6 @@
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.RazorAssemblyInfo.cs
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.sourcelink.json
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/scopedcss/bundle/FestivalMvc.styles.css
-/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/compressed/9o5ee7ei2t-l7izfa8jc3.gz
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/compressed/n09yi7u6r4-74gzxfd89g.gz
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.build.json
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/staticwebassets.development.json
@@ -61,3 +60,4 @@
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.pdb
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/FestivalMvc.genruntimeconfig.cache
 /Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/ref/FestivalMvc.dll
+/Users/haakonhalvorsen/Documents/217-desitn/obj/Debug/net9.0/compressed/9o5ee7ei2t-wwpt8qf1fq.gz

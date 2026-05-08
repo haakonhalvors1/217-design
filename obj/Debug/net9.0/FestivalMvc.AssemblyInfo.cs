@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FestivalMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39e109c134c885448535b5602f6ee4707efc3b31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4da4af47722b9e4bff973633cfc94012f736ec2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FestivalMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FestivalMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

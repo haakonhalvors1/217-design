@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/hero-bg.png",
+      "PackagePath": "staticwebassets/images/hero-bg.png"
+    },
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
       "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
