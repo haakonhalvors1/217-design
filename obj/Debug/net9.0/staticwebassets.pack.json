@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets/images/logo.png"
     },
     {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/ls-2027 2.png",
+      "PackagePath": "staticwebassets/images/ls-2027 2.png"
+    },
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/overnatting 2.png",
+      "PackagePath": "staticwebassets/images/overnatting 2.png"
+    },
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/utforsk 2.png",
+      "PackagePath": "staticwebassets/images/utforsk 2.png"
+    },
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/images/vis-vei 2.png",
+      "PackagePath": "staticwebassets/images/vis-vei 2.png"
+    },
+    {
       "Id": "/Users/haakonhalvorsen/Documents/217-desitn/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
