@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217 Design/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/haakonhalvorsen/Documents/217 Design/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FestivalMvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FestivalMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FestivalMvc.props",
+      "PackagePath": "build\\FestivalMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FestivalMvc.props",
+      "PackagePath": "buildMultiTargeting\\FestivalMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FestivalMvc.props",
+      "PackagePath": "buildTransitive\\FestivalMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

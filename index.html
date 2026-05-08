@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nordlys Festival 2026</title>
+    <meta
+      name="description"
+      content="Forside for festivalnettside (Mappe 2) med forbedringer basert på evaluering i Mappe 1."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Hopp til innhold</a>
+
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="#">Nordlys Festival</a>
+        <nav aria-label="Hovedmeny">
+          <ul class="nav-list">
+            <li><a href="#program">Program</a></li>
+            <li><a href="#forbedringer">Forbedringer</a></li>
+            <li><a href="#praktisk">Praktisk</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+          </ul>
+        </nav>
+        <button id="themeBtn" class="ghost-btn" type="button" aria-pressed="false">Mørk modus</button>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div>
+            <p class="eyebrow">15–17 august 2026 • Kristiansand</p>
+            <h1>Opplev musikk, mat og foredrag på ett sted</h1>
+            <p class="lead">
+              Dette er en kjørbar forside for Mappe 2, bygget med forbedringer fra evalueringen i Mappe 1.
+            </p>
+            <div class="cta-row">
+              <a class="btn primary" href="#program">Se program</a>
+              <a class="btn" href="#forbedringer">Se hva som er forbedret</a>
+            </div>
+          </div>
+          <aside class="hero-card" aria-label="Hurtiginfo">
+            <h2>Hurtiginfo</h2>
+            <ul>
+              <li>Universell utforming i fokus</li>
+              <li>Tydeligere navigasjon</li>
+              <li>Raskere vei til billettkjøp</li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <section id="program" class="section">
+        <div class="container">
+          <div class="section-head">
+            <h2>Høydepunkter i programmet</h2>
+            <p class="muted">Enkelt og oversiktlig kortvisning.</p>
+          </div>
+          <div id="programGrid" class="program-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="forbedringer" class="section alt">
+        <div class="container">
+          <div class="section-head">
+            <h2>Forbedringer fra Mappe 1 → Mappe 2</h2>
+            <p class="muted">Eksempel på hvordan dere kan synliggjøre evalueringsfunn i designet.</p>
+          </div>
+          <div class="improvement-grid">
+            <article class="improvement-card">
+              <h3>1. Bedre lesbarhet</h3>
+              <p>Høy kontrast, tydelig typografi og bedre spacing for enklere skanning.</p>
+            </article>
+            <article class="improvement-card">
+              <h3>2. Klar navigasjon</h3>
+              <p>Fast toppmeny, tydelige menypunkter og hopp-lenke for tastaturbrukere.</p>
+            </article>
+            <article class="improvement-card">
+              <h3>3. Rask handling</h3>
+              <p>Primærknapp for viktig handling og tydelig struktur i innholdet.</p>
+            </article>
+            <article class="improvement-card">
+              <h3>4. Tilgjengelighet</h3>
+              <p>Semantiske seksjoner, fokusstiler og tastaturvennlig flyt.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="praktisk" class="section">
+        <div class="container practical-grid">
+          <article class="panel">
+            <h3>Åpningstider</h3>
+            <p>Fredag–søndag fra 11:00 til 23:30.</p>
+          </article>
+          <article class="panel">
+            <h3>Lokasjon</h3>
+            <p>Sentrum Scene, Kristiansand.</p>
+          </article>
+          <article class="panel">
+            <h3>Billetter</h3>
+            <p>Fra 299 kr. Studentrabatt tilgjengelig.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer id="kontakt" class="site-footer">
+      <div class="container footer-wrap">
+        <p>© 2026 Nordlys Festival</p>
+        <p>E-post: post@nordlysfestival.no</p>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
