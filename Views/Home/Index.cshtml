@@ -6,10 +6,10 @@
             <a class="brand" href="#">
                 <img src="/images/logo.png" alt="Landstreffet Stavanger" class="brand-logo">
             </a>
-            <nav aria-label="Hovedmeny">
+            <nav aria-label="Hovedmeny" class="nav-center">
                 <ul class="nav-list">
                     <li><a href="#billetter">KJØP BILLETTER</a></li>
-                    <li><a href="#foreldelser">LS-FORELDELSER</a></li>
+                    <li><a href="#fordeler">LS-FORDELER</a></li>
                     <li><a href="#info">LS-INFO</a></li>
                     <li><a href="#artister">ARTISTER</a></li>
                     <li><a href="#samarbeid">SAMARBEID</a></li>
@@ -23,30 +23,20 @@
 <main id="main">
     <section class="hero">
         <div class="hero-container">
-            <!-- Dekorative elementer -->
+            <!-- Minimal dekorative elementer - kun blomster på sidene -->
             <div class="decoration decoration-left">
                 <svg viewBox="0 0 100 200" class="plant-left">
-                    <path d="M 30 150 Q 20 120 30 80 Q 40 100 50 70 Q 45 110 55 50" stroke="#1fd4a3" stroke-width="3" fill="none"/>
-                    <circle cx="28" cy="75" r="4" fill="#ffd700"/>
-                    <circle cx="32" cy="80" r="3" fill="#ffd700"/>
-                    <circle cx="52" cy="65" r="5" fill="#ffd700"/>
-                </svg>
-                <svg viewBox="0 0 60 80" class="bird-left">
-                    <path d="M 15 40 Q 25 30 35 40 Q 30 45 20 45 Z" fill="#ff8c42"/>
-                    <circle cx="20" cy="38" r="2" fill="#000"/>
+                    <path d="M 30 150 Q 20 120 30 80 Q 40 100 50 70 Q 45 110 55 50" stroke="#1fd4a3" stroke-width="2" fill="none"/>
+                    <circle cx="28" cy="75" r="3" fill="#ffd700"/>
+                    <circle cx="52" cy="65" r="3" fill="#ffd700"/>
                 </svg>
             </div>
 
             <div class="decoration decoration-right">
                 <svg viewBox="0 0 100 200" class="plant-right">
-                    <path d="M 70 150 Q 80 120 70 80 Q 60 100 50 70 Q 55 110 45 50" stroke="#1fd4a3" stroke-width="3" fill="none"/>
-                    <circle cx="72" cy="75" r="4" fill="#ffd700"/>
-                    <circle cx="68" cy="80" r="3" fill="#ffd700"/>
-                    <circle cx="48" cy="65" r="5" fill="#ffd700"/>
-                </svg>
-                <svg viewBox="0 0 60 80" class="bird-right">
-                    <path d="M 45 40 Q 35 30 25 40 Q 30 45 40 45 Z" fill="#ff8c42"/>
-                    <circle cx="40" cy="38" r="2" fill="#000"/>
+                    <path d="M 70 150 Q 80 120 70 80 Q 60 100 50 70 Q 55 110 45 50" stroke="#1fd4a3" stroke-width="2" fill="none"/>
+                    <circle cx="72" cy="75" r="3" fill="#ffd700"/>
+                    <circle cx="48" cy="65" r="3" fill="#ffd700"/>
                 </svg>
             </div>
 
@@ -60,6 +50,53 @@
     <section class="nyheter-section">
         <div class="container">
             <h2>NYHETER</h2>
+            <div class="articles-grid">
+                <!-- Featured article - large -->
+                <article class="article-card featured">
+                    <div class="article-image" style="background: linear-gradient(135deg, #c41e3a 0%, #8b1a1a 100%);"></div>
+                    <div class="article-content">
+                        <h3>LS2027 21-23 MAI<br/>40-ÅRS JUBILEUM</h3>
+                        <p class="article-date">Landstreffet Stavanger 2027</p>
+                    </div>
+                </article>
+
+                <!-- Small articles -->
+                <article class="article-card">
+                    <div class="article-image"></div>
+                    <div class="article-content">
+                        <h3>Utforsk LS-universet</h3>
+                        <p>Utforsk festivalmålet og se hva som venter deg i mai. Ditt live fest.</p>
+                        <p class="article-date">20.01.2026</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="article-image"></div>
+                    <div class="article-content">
+                        <h3>Her skal du bo under LS2026</h3>
+                        <p>Din guide til LS-Hodet, LS-Camp og Belleplads</p>
+                        <p class="article-date">19.02.2026</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="article-image"></div>
+                    <div class="article-content">
+                        <h3>Få 20% rabatt på VisVei sine teoriprøver og E-bok</h3>
+                        <p>Bruk koden: LS20</p>
+                        <p class="article-date">16.01.2026</p>
+                    </div>
+                </article>
+
+                <article class="article-card">
+                    <div class="article-image"></div>
+                    <div class="article-content">
+                        <h3>LS2026 ER UTSOLGT</h3>
+                        <p>Gratulerer til alle som sikret seg billetten til sitt livs opplevelse!</p>
+                        <p class="article-date">18.12.2025</p>
+                    </div>
+                </article>
+            </div>
         </div>
     </section>
 </main>
